@@ -12,10 +12,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-
-## Overview
-
 ### Screenshot
+
+![image](https://github.com/danielzeljko/QR-Code-Component/assets/115326106/f274b458-0925-47ba-81a4-afc177068549)
 
 ### Links
 
@@ -36,4 +35,3 @@ If I had more time I would like to break apart some of the classes used in this 
 ## Author
 
 - Frontend Mentor - [@danielzeljko](https://www.frontendmentor.io/profile/danielzeljko)
-# QR-Code-Component
